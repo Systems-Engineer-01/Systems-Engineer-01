@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Edinson Nazario Roa</h1> <h3 align="center">Ingeniero de Sistemas | Desarrollador Full Stack | Ciberseguridad & Infraestructura TI</h3> <p align="center"> <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:roaedinson60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://wa.me/51910132838"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> </p>
-Sobre mi 
-Ingeniero de Sistemas con experiencia en desarrollo de software, administración de base de datos, soporte tecnológico y ciberseguridad. He participado en proyectos de transformación digital para entidades públicas y privadas en Piura, Perú, implementando aplicaciones web, móviles e infraestructura tecnológica optimizan operativos y fortalecen la continuidad de los servicios.
+<h1 align="center">Sobre mi</h1> 
+<h3 align="center">Ingeniero de Sistemas con experiencia en desarrollo de software, administración de base de datos, soporte tecnológico y ciberseguridad. He participado en proyectos de transformación digital para entidades públicas y privadas en Piura, Perú, implementando aplicaciones web, móviles e infraestructura tecnológica optimizan operativos y fortalecen la continuidad de los servicios.</h3>
 
 -Actualmente trabajo como Asistente Tecnológico y Operativo en la Municipalidad Distrital de Las Lomas.
 -En continua Formación: Certificado Profesional de Ciberseguridad de Google (En curso).
